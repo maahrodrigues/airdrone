@@ -85,7 +85,7 @@ ul class="social">
 		
 		<div class="one-third">
 
-			<div class="outer none"><span class="inset"><img src="logosite.png" alt="About" title="About" />
+			<div class="outer none"><span class="inset"><img src="logo2.jpg" alt="About" title="About" />
 
 			</span></div>
 

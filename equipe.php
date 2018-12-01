@@ -124,14 +124,14 @@ anos, trazendo novos olhares para nossa empresa.</p>
     <br>
     <br>
  
-      
+      </p>
+    </div>
+    </div>
            
 
 <div class="clear"></div>
 
-    
-       
-    
+        
 <!--RODAPE-->
     
 <div class="site-generator-wrapper">
