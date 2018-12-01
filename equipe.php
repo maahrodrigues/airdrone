@@ -57,6 +57,10 @@
 <div class="content box">
 
 	<center><h1 class="title">Conheça um pouco mais sobre nossos departamentos e equipe.</h1></center>
+     <br>
+     <br> 
+    <br>
+     
   <center><h3 class="title">DEPARTAMENTOS</h3></center>
 	   
  <br>
@@ -135,7 +139,7 @@ anos, trazendo novos olhares para nossa empresa.</p>
 <!--RODAPE-->
     
 <div class="site-generator-wrapper">
-        <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>
+        <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São Paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>
 </div>
          
 <!-- FIM DO Footer --> 

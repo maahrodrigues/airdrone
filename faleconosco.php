@@ -122,7 +122,7 @@
 <!--RODAPE-->
     
 <div class="site-generator-wrapper">
-        <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>
+        <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São Paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>
 </div>
     
 <!-- FIM DO Footer --> 
