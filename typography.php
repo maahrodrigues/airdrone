@@ -69,7 +69,7 @@
     
 	</div>
     
-        <center><div class="outer none"><span class="inset"><img src="maps.jpg" alt="About" title="About" /></span></div></center>
+        <center><div class="outer none"><span class="inset"><img src="imagens/maps.jpg" alt="About" title="About" /></span></div></center>
     
     
     

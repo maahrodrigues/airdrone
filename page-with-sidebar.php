@@ -61,9 +61,12 @@
 
 <div class="content box">
 
-	<h1 class="title">Os nossos valores variam de acordo com o modelo, tipo de serviço e tempo de voô. Todos os valores abaixo companham operador profissional.</h1>
+	<h1 class="title">Os nossos valores variam de acordo com o modelo, tipo de serviço e tempo de voô. Todos os valores abaixo acompanham operador profissional.</h1>
 	
     <br>
+    <br>
+    
+
     
 
         

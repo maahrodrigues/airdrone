@@ -99,7 +99,7 @@ ul class="social">
         
 			<p>
                 
-            <center><div class="inset"><img src="pag.png" alt="" title="" style="width:60%;"/></div> 
+            <center><div class="inset"><img src="imagens/pag.png" alt="" title="" style="width:60%;"/></div> 
 			<br /></center>
 		</div>
 		<div class="clear"></div>

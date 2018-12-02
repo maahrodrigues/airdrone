@@ -67,104 +67,104 @@
 	<p>
     <br>
 
-   <center><div class="outer none"><span class=""><img src="d1.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+   <center><div class="outer none"><span class=""><img src="imagens/d1.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
    
     <br>
 
-	<center><div class="outer none"><span class=""><img src="d2.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+	<center><div class="outer none"><span class=""><img src="imagens/d2.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
     
-	<center><div class="outer none"><span class=""><img src="d3.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+	<center><div class="outer none"><span class=""><img src="imagens/d3.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
        
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d30.png" alt="" title="" style="width:100%;"/></span></div></center> 
+    <center><div class="outer none"><span class=""><img src="imagens/d30.png" alt="" title="" style="width:100%;"/></span></div></center> 
         
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d31.png" alt="" title="" style="width:100%;"/></span></div></center> 
+    <center><div class="outer none"><span class=""><img src="imagens/d31.png" alt="" title="" style="width:100%;"/></span></div></center> 
         
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d32.png" alt="" title="" style="width:100%;"/></span></div></center> 
+    <center><div class="outer none"><span class=""><img src="imagens/d32.png" alt="" title="" style="width:100%;"/></span></div></center> 
         
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d7.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+    <center><div class="outer none"><span class=""><img src="imagens/d7.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d8.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/d8.jpg" alt="" title="" style="width:100%;"/></span></div></center>
       
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d9.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/d9.jpg" alt="" title="" style="width:100%;"/></span></div></center>
        
     <br>
   
-    <center><div class="outer none"><span class=""><img src="d10.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/d10.jpg" alt="" title="" style="width:100%;"/></span></div></center>
        
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d11.jpg" alt="" title="" style="width:100%;"/></span></div></center>    
+    <center><div class="outer none"><span class=""><img src="imagens/d11.jpg" alt="" title="" style="width:100%;"/></span></div></center>    
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d33.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/d33.jpg" alt="" title="" style="width:100%;"/></span></div></center>
         
     <br>
 
-    <center><div class="outer none"><span class=""><img src="d14.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+    <center><div class="outer none"><span class=""><img src="imagens/d14.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
 
-     <center><div class="outer none"><span class=""><img src="d15.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+     <center><div class="outer none"><span class=""><img src="imagens/d15.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
         
-     <center><div class="outer none"><span class=""><img src="d16.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+     <center><div class="outer none"><span class=""><img src="imagens/d16.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
         
-     <center><div class="outer none"><span class=""><img src="d17.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+     <center><div class="outer none"><span class=""><img src="imagens/d17.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
 
-         <center><div class="outer none"><span class=""><img src="d18.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d18.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
    
-         <center><div class="outer none"><span class=""><img src="d19.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d19.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
   
-         <center><div class="outer none"><span class=""><img src="d20.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d20.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
    <br>
        
-         <center><div class="outer none"><span class=""><img src="d21.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d21.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
    <br>
             
-         <center><div class="outer none"><span class=""><img src="d22.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d22.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
     
-         <center><div class="outer none"><span class=""><img src="d23.png" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d23.png" alt="" title="" style="width:100%;"/></span></div></center> 
     
     
     <br>
     
     
         
-         <center><div class="outer none"><span class=""><img src="d24.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d24.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
 
     <br>
    
     
         
         
-         <center><div class="outer none"><span class=""><img src="d25.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d25.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
      
@@ -177,12 +177,12 @@
            
           
         
-         <center><div class="outer none"><span class=""><img src="d28.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d28.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
   
         
-         <center><div class="outer none"><span class=""><img src="d29.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+         <center><div class="outer none"><span class=""><img src="imagens/d29.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     
     <br>
    

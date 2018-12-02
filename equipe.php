@@ -66,7 +66,7 @@
  <br>
      <br>
     
-    <center><div class="outer none"><span class=""><img src="imagem 10.jpg" alt="" title="" style="width:50%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/imagem 10.jpg" alt="" title="" style="width:50%;"/></span></div></center>
    <center><h3> Logística </h3></center>
    <center><p> Responsável pela administração de materiais e recursos na empresa, otimiza o uso do espaço e
 reduz o tempo e o custo de cada processo. Controla o estoque e a armazenagem planeja a
@@ -75,7 +75,7 @@ movimentação interna e a distribuição entre fábricas, centros de distribui�
     <br>
     <br>
         
-   <center><div class="outer none"><span class=""><img src="imagem 12.jpg" alt="" title="" style="width:50%;"/></span></div></center>
+   <center><div class="outer none"><span class=""><img src="imagens/imagem 12.jpg" alt="" title="" style="width:50%;"/></span></div></center>
    <center><h3> Piloto </h3></center>
    <center><p>Um piloto de drone deve ser persistente, pois o trabalho não é simples. O profissional pode
 perder o controle do dispositivo acidentalmente e esbarrar em obstáculos ou pessoas.
@@ -87,7 +87,7 @@ profissionais desse ramo. </p>
     <br>
     
     
-	<center><div class="outer none"><span class=""><img src="imagem 11.jpg" alt="" title="" style="width:50%;"/></span></div></center>
+	<center><div class="outer none"><span class=""><img src="imagens/imagem 11.jpg" alt="" title="" style="width:50%;"/></span></div></center>
    <center><h3> suporte/ Manutenção</h3></center>
    <center><p> O serviço de suporte é feito na nossa matriz onde o cliente pode entrar em contato solicitando
 a busca de um ou mais produto ou até mesmo levando em nossa unidade mais perto.
@@ -100,7 +100,7 @@ problema que enfrenta que no horário comercial o suporte entrara em contato. </
 
       <center><h3 class="title">EQUIPE</h3></center>
     
-	<center><div class="outer none"><span class=""><img src="imagem 13.jpg" alt="" title="" style="width:50%;"/></span></div></center>
+	<center><div class="outer none"><span class=""><img src="imagens/imagem 13.jpg" alt="" title="" style="width:50%;"/></span></div></center>
    <center><h3> Rogerio Lacerda </h3></center>
    <center><p> Diretor executivo</p>
    <center><p> Formado em Engenharia da Computação pela Universidade Nove de Julho.
@@ -111,7 +111,7 @@ pequenas empresas.</p>
     <br>
     
     
-  <center><div class="outer none"><span class=""><img src="imagem 14.jpeg" alt="" title="" style="width:50%;"/></span></div></center>
+  <center><div class="outer none"><span class=""><img src="imagens/imagem 14.jpeg" alt="" title="" style="width:50%;"/></span></div></center>
    <center><h3> Fabiana Rodrigues </h3></center>
    <center><p> Diretora de Marketing</p>
    <center><p> Formada em Marketing pela Mackenzie, Fabiana já vem trabalhando nesta área a mais de 15
@@ -120,7 +120,7 @@ anos, trazendo novos olhares para nossa empresa.</p>
     <br>
     <br>
 
-    <center><div class="outer none"><span class=""><img src="imagem 15.jpg" alt="" title="" style="width:50%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/imagem 15.jpg" alt="" title="" style="width:50%;"/></span></div></center>
    <center><h3> Júlio Cezar </h3></center>
    <center><p> Fundador</p>
    <center><p> Formado em Ciências da Computação pela Anhembi Morumbi o nosso fundador trouxe uma grande inovação para o uso de aparelhos tecnológicos, combinando a praticidade e agilidade.</p>
