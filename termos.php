@@ -71,22 +71,20 @@ O cliente também responde como co-responsável pela operação, além de poder 
 
 
 <p>
-<strong>I-</strong>Se acontecer o cancelamento por parte do contratante a devolução do valor pago seguirá as regras:
+<strong>I-</strong>Se acontecer o cancelamento por parte do contratante a devolução do valor pago seguirá as regras: 
+    <p>
 
-Até 05 dias antes da data = 60% do valor total
-Até 03 dias antes da data = 30% do valor total 
-Até 02 dias antes da data reservada = 0% do valor total.
+- Até 05 dias antes da data = 60% do valor total
+    <p>
+- Até 03 dias antes da data = 30% do valor total 
+        <p>
+- Até 02 dias antes da data reservada = 0% do valor total.
 <p>
 <strong> O pagamento do reembolso será efetuado em até 48 horas.</strong>
 </p>
 
 	
-	<p></p>
-	<h3></h3>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>
 
 	
 
