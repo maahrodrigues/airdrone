@@ -15,10 +15,10 @@
 <!-- Begin Menu -->
 		  <nav class="navbar navbar-dark bg-dark navbar-static-top">
 		  <a class="navbar-brand" href="index.php">Home</a>
-		  <a class="navbar-brand" href="page-with-sidebar.php">Orçamento</a>
+		  <a class="navbar-brand" href="page-with-sidebar.php">Preços</a>
 		  <a class="navbar-brand" href="post.php">Serviços</a>
-		  <a class="navbar-brand" href="typography.php">Unidades</a>
-		  <a class="navbar-brand" href="full-width.php">Sobre a empresa</a>
+		  <a class="navbar-brand" href="typography.php">Entrega de Encomendas</a>
+		  <a class="navbar-brand" href="full-width.php">Nossa Empresa</a>
           
 		  </button>
 		</nav>

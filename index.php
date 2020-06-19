@@ -113,7 +113,7 @@ ul class="social">
 <div>
 
 <button type="button" class="btn-secondary btn-lg" data-toggle="modal" data-target=".bd-example-modal-lg">
-  CADASTRE-SE, E RECEBA TODAS AS OFERTAS E NOTICIAS EM PRIMEIRA MÃO
+  CADASTRE-SE E RECEBA TODAS AS OFERTAS E NOTICIAS EM PRIMEIRA MÃO
 </button>
 
 
@@ -122,7 +122,7 @@ ul class="social">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
-       <font color = "black"> <id="exampleModalLabel">FORMULARIO </font> 
+       <font color = "black"> <id="exampleModalLabel"> Receba as Nossa Promoções  </font> 
         
         </button>
       </div>
@@ -141,33 +141,47 @@ ul class="social">
   </div>
 <br>
   <div class="form-group">
-   <font color = "black"> <label for="exampleFormControlInput1">Endereço de email</label><br> </font>
+   <font color = "black"> <label for="exampleFormControlInput1">Insira o seu e-mail: </label><br> </font>
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
   </div>
   <br>
   <div class="form-group">
-    <font color = "black"> <label for="exampleFormControlSelect2">Selecione o Pais</label> </font>
+    <font color = "black"> <label for="exampleFormControlSelect2">Selecione o seu estado: </label> </font>
     <select multiple class="form-control" id="exampleFormControlSelect2">
-      <option>Brasil</option>
-      <option>Estados Unidos</option>
-      <option>Canada</option>
-      <option>Espanha</option>
-      <option>Mexico</option>
+      <option>Acre (AC)</option>
+      <option>Alagoas (AL)</option>
+      <option>Amapá (AP)</option>
+      <option>Amazonas (AM)</option>
+      <option>Bahia (BA)</option>
+      <option>Ceará (CE)</option>
+      <option>Distrito Federal (DF)</option>
+      <option>Espírito Santo (ES)</option>
+      <option>Goiás (GO)</option>
+      <option>Maranhão (MA)</option>
+      <option>Mato Grosso (MT)</option>
+      <option>Mato Grosso do Sul (MS)</option>
+      <option>Minas Gerais (MG)</option>
+      <option>Pará (PA)</option>
+        <option>Paraíba (PB)</option>
+        <option>Paraná (PR)</option>
+        <option>Pernambuco (PE)</option>
+        <option>Piauí (PI)</option>
+        <option>Rio de Janeiro (RJ)</option>
+        <option>Rio Grande do Norte (RN)</option>
+        <option>Rio Grande do Sul (RS)</option>
+        <option>Rondônia (RO)</option>
+        <option>Roraima (RR)</option>
+        <option>Santa Catarina (SC)</option>
+        <option>São Paulo (SP)</option>
+        <option>Sergipe (SE)</option>
+        <option>Tocantins (TO)/<option>
     </select>
   </div>
-  <div class="form-group row">
-   <font color = "black"> <label for="inputPassword" class="col-sm-2 col-form-label">Senha</label> </font>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="inputPassword" placeholder="Senha">
-    </div>
-  </div>
-</form>
+  </form>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#salvar">
-  Enviar
-</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal"> Fechar </button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#salvar"> Enviar </button>
 
         <!-- Button trigger modal -->
 
@@ -177,14 +191,14 @@ ul class="social">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <font color = "black"> <class="modal-title" id="exampleModalLabel">Cadastro salvo </font>
+        <font color = "black"> <class="modal-title" id="exampleModalLabel"> Cadastro salvo </font>
         
        </div>
       <center><div class="modal-body">
-       <font color = "black"> PARABÉNS SEU CADASTRO ESTÁ FEITO. </font>
+       <font color = "black"> CADASTRO REALIZADO COM SUCESSO ! </font>
       </div></center>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal"> Sair </button>
         </div>
     </div>
   </div>
@@ -201,11 +215,11 @@ ul class="social">
 <script type="text/javascript" src="style/js/scripts.js"></script>
     
     
-    <!--RODAPÉ-->
+    <!--RODAPÉ
     
     <div class="site-generator-wrapper">
         <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São Paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>
-</div>
+</div>-->
     
 <!--FOOTE-->
     <script type="text/javascript" src="style/js/scripts.js"></script>
