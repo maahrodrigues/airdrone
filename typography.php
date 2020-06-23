@@ -67,76 +67,72 @@
             Tudo funciona de uma forma bem simples, a partir de uma rota personalizada, criada exclusivamente para os clientes, é necessário a identificação do serviço que vai utilizar e suas credenciais e depois inserir o material em uma caixa específica para isso, em seguida, um veículo não tripulado, que utiliza de inteligência artificial e outros dados de localização para reduzir o tempo normal de entrega. O drone possui vários sistemas de emergência para o caso de imprevistos — como no caso de uma tempestade repentina — e é possível acompanhá-lo durante todo o trajeto.
             <br>
             <br>
-
-             <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/123.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
-            	
+                         	
             "<a href=/page-with-sidebar.php>PARA CONSULTAR OS VALORES CLIQUE AQUI<a/>"  </h3></center>
             	<br>
             	 <br>
             <br>
+	</div>            
             	
 <center><h1 class="title"><strong> CONSULTE A SUA ENCOMENDA AQUI </strong></h1></center>
-<div class=" box">
-<h1> DIGITE SEU CÓDIGO DE RASTREIO </h1>
-<form>
-  <div class="form-group">
-  	    <label for="exampleFormControlInput1"></label>
 
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Código de Rastreio">
-    <br>
-    
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#enviar2">
-  Consultar
-</div> 
+  
+<?php
+$servername = "3.128.7.77";
+$username = "admin";
+$password = "Alohomora01";
+$dbname = "database1";
 
-<div class="modal fade" id="enviar2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <font color = "black"> <class="modal-title" id="exampleModalLabel"> STATUS </font>
-        
-       </div>
-      <center><div class="modal-body">
-       <font color = "black"> PARABÉNS SEU CADASTRO ESTÁ FEITO. </font>
-      </div></center>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
-    </div>
-  </div>
-</div>   
-    
-		<div class="">
-			  			<center><a href=""><img src="logosite1.png" style="width:30%" /></a></center>
-			  		</div>
-	</div>
+echo "<table style='border: solid 1px black;'>";
+echo "<tr><th>ID</th><th>Codigo Rastreio</th><th>Empresa</th><th>Status</th></tr>";
+
+class TableRows extends RecursiveIteratorIterator {
+  function __construct($it) {
+    parent::__construct($it, self::LEAVES_ONLY);
+  }
+
+  function current() {
+    return "<td style='width:150px;border:1px solid black;'>" . parent::current(). "</td>";
+  }
+
+  function beginChildren() {
+    echo "<tr>";
+  }
+
+  function endChildren() {
+    echo "</tr>" . "\n";
+  }
+} 
+
+try {
+  $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+  
+  // set the PDO error mode to exception
+  $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+  $stmt = $conn->prepare(('select id, codigorastreio, empresa, stats from encomendas'));
+  $stmt->execute();
+
+ $result = $stmt->setFetchMode(PDO::FETCH_ASSOC);
+  foreach(new TableRows(new RecursiveArrayIterator($stmt->fetchAll())) as $k=>$v) {
+    echo $v;
+  } 
+} catch(PDOException $e) {
+  echo 'Error: ' . $e->getMessage();
+}
+$conn = null;
+
+?>
+
+ 
+						
+</div>
 	
-			
+
+
 <div class="clear"></div>
 
-        
-    
-	</div>
-    <!--
-        <center><div class="outer none"><span class="inset"><img src="imagens/maps.jpg" alt="About" title="About" /></span></div></center>
-    
-    
-    
-    
-	div class="one-half last">
-		<h3></h3>
-		<a href="#" class="button">Default Button</a> 
-		<br /> 
-		<a href="#" class="button blue">Blue Button</a>
-		<a href="#" class="button green">Green Button</a>
-		<a href="#" class="button pink">Pink Button</a>
-		<a href="#" class="button purple">Purple Button</a>
-		<a href="#" class="button red">Red Button</a>
-		<a href="#" class="button yellow">Yellow Button</a>
-	</div> -->
-    
-    
-    
+ 
 	<div class="clear"></div>
 	<hr />
 	
@@ -144,22 +140,6 @@
 		</div>
 		
 
-	    
-<!-- Begin Footer CASO NECESSÁRIO RETORNA-LO inserir aqui -->
-    
-    
-    
-<!---FIM begin footer-->    
-
-    
-    
-    <!--RODAPE
-<div class="site-generator-wrapper">
-        <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São Paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>
-</div>-->
-    
-    
-<!-- End Footer --> 
 <script type="text/javascript" src="style/js/scripts.js"></script>
 </body>
 </html>
