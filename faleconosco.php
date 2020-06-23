@@ -70,10 +70,10 @@
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   </div>
   <div class="form-group">
-    <label for="exampleFormControlSelect1">Selecio Departamento</label>
+    <label for="exampleFormControlSelect1">Selecione o Departamento</label>
     <select class="form-control" id="exampleFormControlSelect1">
       <option>Suporte</option>
-      <option>Marketing</option>
+      <option>Expedição</option>
       <option>Financeiro</option>
     </select>
   </div>
@@ -119,11 +119,11 @@
 
 	
     
-<!--RODAPE-->
+<!--RODAPE
     
 <div class="site-generator-wrapper">
         <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São Paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>
-</div>
+</div>-->
     
 <!-- FIM DO Footer --> 
 <script type="text/javascript" src="style/js/scripts.js"></script>

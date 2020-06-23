@@ -61,7 +61,7 @@
 
 <div class="content box">
 
-	<center><h1 class="title"><strong>Termos de Uso</strong></h1></center>
+	<center><h1 class="title"><strong>Termo de Uso</strong></h1></center>
     <p><strong>I-</strong> Todas as medidas de segurança são de completa responsabilidade da parte CONTRATANTE, tais como as regras para operação da ANAC, assim como descito na clausula 2 do contrato, caso haja omissão de infomações e não possa ser realizado o voo havera quebra imediata no contrato, confome clausula 3 do contrato, e nenhum valor será reembolsado. O Drone não levanta voo em condições climáticas desfavoráveis, nesse caso será devolvido 70% do valor total, assim como descrito na clausula 5 do contrato.
  <strong>TODAS AS REGRAS PARA O VOO ESTÃO DESCRITAS NO CONTRATO.</strong>
 

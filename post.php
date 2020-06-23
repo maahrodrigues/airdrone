@@ -69,7 +69,7 @@
                 <br>
 
                 
- <center><div class="outer none"><span class=""><img src="imagens/agricultura.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+ <center><div class="outer none"><span class=""><img src="imagens/SERVIÇOS/agricultura.jpg" alt="" title="" style="width:100%;"/></span></div></center>
                 <strong><h3><center>AGRICULTURA</center></h3></strong>
 Monitoramento de safras, demarcação do plantio, falhas de plantio e deteccão de pragas em plantações, pulverização, monitorar desmatamento, busca de animais perdidos e Telemetria.
                 <p>
@@ -77,15 +77,8 @@ Monitoramento de safras, demarcação do plantio, falhas de plantio e deteccão 
                 <br>
                 <br>
 
-                    
-        <center><div class="outer none"><span class=""><img src="imagens/institucionais.jpg" alt="" title="" style="width:50%;"/></span></div></center> <strong><h3><center>INSTITUCIONAIS</center></h3></strong>
-Elaboramos vídeos institucionais para empresas,  órgãos governamentais, clubes, comércios e serviços, entre outros. Contamos também com vídeos em 360.
-                <p>
-                    <br>
-                    <br>
-                    <br>
-                    
-      <center><div class="outer none"><span class=""><img src="imagens/eventos.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+                          
+      <center><div class="outer none"><span class=""><img src="imagens/SERVIÇOS/eventos.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
                     <strong><h3><center>FESTAS E EVENTOS</center></h3></strong>
 Realizamos cobertura de aniversários, formatura, festas corporativas, shows, casamentos, entre outros. Fotos e vídeos, contamos com a tecnologia de foto 360º.
                 <p>
@@ -95,23 +88,31 @@ Realizamos cobertura de aniversários, formatura, festas corporativas, shows, ca
                     
                     
                                   
-      <center><div class="outer none"><span class=""><img src="imagens/civil.jpg" alt="" title="" style="width:45%;"/></span></div></center> 
+      <center><div class="outer none"><span class=""><img src="imagens/SERVIÇOS/civil.jpg" alt="" title="" style="width:45%;"/></span></div></center> 
                     <strong><h3><center>CONSTRUÇÃO CIVIL</center></h3></strong>
 Acompanhamento seguro de obras, detalhes interno assim sendo possível a exata noção do que você quer passar para o cliente.
                     <br>
                     <br>
                     <br>
                     
-    <center><div class="outer none"><span class=""><img src="imagens/il.png" alt="" title="" style="width:70%;"/></span></div></center> 
+    <center><div class="outer none"><span class=""><img src="imagens/SERVIÇOS/il.png" alt="" title="" style="width:70%;"/></span></div></center> 
                     <strong><h3><center>INSPEÇÕES E LAUDOS</center></h3></strong>
 Mais produtividade e com muita segurança na realização de inspeções aéreas em diversas áreas, como por exemplo torres de energia eólica, pontes, reservatórios, placas de energia solar, estrutura de aviões comerciais, telhado, galpão.
                     <br>
                     <br>
                     <br>
                     
-    <center><div class="outer none"><span class=""><img src="imagens/medico.jpg" alt="" title="" style="width:45%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/SERVIÇOS/medico.jpg" alt="" title="" style="width:45%;"/></span></div></center>
                     <strong><h3><center>DRONES MÉDICOS</center></h3></strong>
 Agilidade no campo emergencial, facilidade na prestação de cuidados de saúde em regiões subdesenvolvidas, transplante de orgão e sangue com mais eficiencia, lugares de difícil acesso, encomendas de medicamentos sob demanda, os suprimentos chegam em média dentro de 30 minutos e primeiros socorros (incluso desfiblilador), entrega de vacinas e de soro antiofídico.
+                    <br>
+                    <br>
+                    <br>
+
+
+    <center><div class="outer none"><span class=""><img src="imagens/SERVIÇOS/entrega.jpg" alt="" title="" style="width:45%;"/></span></div></center>
+                    <strong><h3><center>DRONES DE ENTREGA</center></h3></strong>
+Entregas com a maior agilidade, de uma forma rápida que garante a comodidade para quem recebe e segurança para quem envia. Possuimos dois tipos de entregas, consulte os valores.
                     <br>
                     <br>
                     <br>
@@ -125,8 +126,10 @@ Agilidade no campo emergencial, facilidade na prestação de cuidados de saúde 
 
 			<div>
 				<center>
+				<!-- BOTÃO DESATIVADO
 			<a href="galeriadefotos.php"><button type="button" class="btn btn-light">GALEIRA DE FOTOS</button></a>
-			<a href="termos.php"><button type="button" class="btn btn-light">TERMOS</button></a>
+			-->	
+			<a href="termos.php"><button type="button" class="btn btn-light">TERMO DE USO</button></a>
 				</center>
 			</div>	
 			<br>		

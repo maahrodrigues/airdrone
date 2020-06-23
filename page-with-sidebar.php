@@ -70,7 +70,7 @@
     
 
         
-   <center><div class="outer none"><span class=""><img src="drone1.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+   <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone1.jpg" alt="" title="" style="width:100%;"/></span></div></center>
    <center><h1>Blade Chroma Quadcopter Drone + OPERADOR</h1></center>
         <br>
    <center><p> <strong> Tempo médio Vôo: </strong>  30min </p></center>
@@ -87,7 +87,7 @@
     <br>
     
     
-	<center><div class="outer none"><span class=""><img src="drone22.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
+	<center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone22.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
     <center><h1>Sim Too Pro + OPERADOR </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  30min </p></center>
@@ -104,7 +104,7 @@
     <br>
     
     
-	<center><div class="outer none"><span class=""><img src="dron3.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+	<center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/dron3.jpg" alt="" title="" style="width:100%;"/></span></div></center>
     <center><h1>DJI Phantom 4 4K + OPERADOR </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  28min </p></center>
@@ -121,40 +121,37 @@
     <br>
     <br>
     
-    <center><div class="outer none"><span class=""><img src="drone4.jpg" alt="" title="" style="width:100%;"/></span></div></center>
-    <center><h1>DJI Mavic Pro + OPERADOR </h1></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone4.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><h1> Drone para Entregas (até 50kg) + OPERADOR </h1></center>
         <br>
-	<center><p> <strong> Tempo médio de Vôo: </strong> 27min </p></center>
-    <center><p> <strong> Alcance de Controle: </strong> 7000m </p></center>
-        <br>
+	     <center><strong>VALORES</strong></center>
+   <center> <p> 30 quilometros    = R$790,99</p></center>
+    <center><p> De 30 km até 99km média RS26,31, por KM </p></center>
+    <center><p> 100 quilometros   = R$2.000,00</p></center>
+    <center><p> A partir de 100 km fica em média RS20,00, por KM </p></center>
+    21‬
+        
+    <br>
+    <br>
+    <br>
+    
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone5.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><h1> Drone para Entregas (até 30kg) + OPERADOR</h1></center>
+          <br>
         <center><strong>VALORES</strong></center>
-    <center><p>Duração de 1 horas = R$640,00</p></center>
-    <center><p>Duração de 2 horas = R$1.200,00</p></center>
-    <center><p>Duração de 4 horas = R$2.500,00</p></center>
+    <center> <p> 30 quilometros    = R$699,99</p></center>
+    <center><p> Até 30 km média RS23,33, por KM </p></center>
+    <center> <p> 50 quilometros    = R$1.050,00</p></center>
+    <center><p> De 31 km até 99km média RS23,33, por KM </p></center>    
+    <center><p> 100 quilometros   = R$1.900‬,00</p></center>
+    <center><p> A partir de 100 km fica em média RS19,00, por KM </p></center>
     
     
     <br>
     <br>
     <br>
     
-    
-    <center><div class="outer none"><span class=""><img src="drone5.jpg" alt="" title="" style="width:100%;"/></span></div></center>
-    <center><h1>DJI Inspire 2 + OPERADOR</h1></center>
-        <br>
-	<center><p> <strong> Tempo médio de Vôo: </strong> 27min</p></center>
-   <center> <p> <strong> Alcance de Controle: </strong> 7000m </p></center>
-        <br>
-        <center><strong>VALORES</strong></center>
-   <center> <p>Duração de 1 horas = R$680,00</p></center>
-    <center><p>Duração de 3 horas = R$2.000,00</p></center>
-    <center><p>Duração de 9 horas = R$6.000,00</p></center>
-    
-    
-    <br>
-    <br>
-    <br>
-    
-    <center><div class="outer none"><span class=""><img src="drone6.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone6.jpg" alt="" title="" style="width:100%;"/></span></div></center>
     <center><h1>Parrot Bebop 2 + OPERADOR </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong> 25min </p></center>
@@ -171,7 +168,7 @@
     <br>
     <br>
     
-    <center><div class="outer none"><span class=""><img src="drone7.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone7.jpg" alt="" title="" style="width:100%;"/></span></div></center>
     <center> <h1>DJI Phantom 3 Standard </h1></center>
         <br>
 	 <center><p> <strong> Tempo médio de Vôo: </strong>  25min </p>
@@ -187,7 +184,7 @@
     <br>
     <br>
     
-    <center><div class="outer none"><span class=""><img src="drone8.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone8.jpg" alt="" title="" style="width:100%;"/></span></div></center>
    <center> <h1>3DR Solo + OPERADOR </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  22min </p></center>
@@ -203,7 +200,7 @@
     <br>
     
     
-         <center><div class="outer none"><span class=""><img src="dro9.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+         <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/dro9.jpg" alt="" title="" style="width:100%;"/></span></div></center>
    <center> <h1>Yuneec Q500+ + OPERADOR</h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  22min </p></center>
@@ -222,7 +219,7 @@
     <br>
     
     
-    <center><div class="outer none"><span class=""><img src="drone0.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/drone0.jpg" alt="" title="" style="width:100%;"/></span></div></center>
    <center><h1> DRONE DJI S900 + OPERADOR </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>   </p></center>
@@ -240,7 +237,7 @@
     
     
     
-    <center><div class="outer none"><span class=""><img src="TRICHOHEXA%20900.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/TRICHOHEXA%20900.jpg" alt="" title="" style="width:100%;"/></span></div></center>
    <center> <h1>TRICHOHEXA 900 + OPERADOR </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  40min </p></center>
@@ -257,7 +254,7 @@
     <br>
     
     
-    <center><div class="outer none"><span class=""><img src="DRONE%20JT16L-2N1.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/DRONE%20JT16L-2N1.jpg" alt="" title="" style="width:100%;"/></span></div></center>
          <center>  <h1>DRONE JT16L-2N1 + OPERADOR  </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  38min </p></center>
@@ -274,7 +271,7 @@
     <br>
     
     
-    <center><div class="outer none"><span class=""><img src="donemedico.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/donemedico.jpg" alt="" title="" style="width:100%;"/></span></div></center>
         <center> <h1>Drone médico modelo 1 + OPERADOR</h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  120min </p></center>
@@ -291,7 +288,7 @@
     <br>
     
     
-    <center><div class="outer none"><span class=""><img src="dronemedico1.jpg" alt="" title="" style="width:100%;"/></span></div></center>
+    <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/dronemedico1.jpg" alt="" title="" style="width:100%;"/></span></div></center>
        <center> <h1>Drone médico modelo 2 + OPERADOR </h1></center>
         <br>
 	<center><p> <strong> Tempo médio de Vôo: </strong>  60min </p>
