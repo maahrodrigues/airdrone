@@ -69,7 +69,13 @@
             <br>
                          	
             "<a href=/page-with-sidebar.php>PARA CONSULTAR OS VALORES CLIQUE AQUI<a/>"  </h3></center>
+            	<div class="item">
+        <img src="imagens/ORÇAMENTO/123.jpg" style="padding-left:30px" style="width:30%;">
+      </div>   
             	<br>
+            	 <br>
+            <br>
+            <br>
             	 <br>
             <br>
 	</div>            
@@ -84,7 +90,7 @@ $password = "Alohomora01";
 $dbname = "database1";
 
 echo "<table style='border: solid 1px black;'>";
-echo "<tr><th>ID</th><th>Codigo Rastreio</th><th>Empresa</th><th>Status</th></tr>";
+echo "<tr><th>ID</th><th>Codigo Rastreio</th><th> Empresa</th><th>Status</th></tr>";
 
 class TableRows extends RecursiveIteratorIterator {
   function __construct($it) {
@@ -128,7 +134,8 @@ $conn = null;
 						
 </div>
 	
-
+ 
+</div>
 
 <div class="clear"></div>
 
