@@ -70,7 +70,7 @@
 
              <center><div class="outer none"><span class=""><img src="imagens/ORÇAMENTO/123.jpg" alt="" title="" style="width:100%;"/></span></div></center> 
             	
-            "<a href=\"https://airdrones.herokuapp.com/page-with-sidebar.php">PARA CONSULTAR OS VALORES CLIQUE AQUI<a/>"  </h3></center>
+            "<a href=/page-with-sidebar.php>PARA CONSULTAR OS VALORES CLIQUE AQUI<a/>"  </h3></center>
             	<br>
             	 <br>
             <br>
