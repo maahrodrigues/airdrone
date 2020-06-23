@@ -60,15 +60,15 @@
     <!-- IMAGENS DO CARROSSEL -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="imagens/carrossel/imagem1.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="imagens/carrossel/imagem 1.jpg" alt="Los Angeles" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="imagens/carrossel/imagem2.jpg" alt="Chicago" style="width:100%;">
+        <img src="imagens/carrossel/imagem 2.jpg" alt="Chicago" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="imagens/carrossel/imagem3.jpg" alt="New york" style="width:100%;">
+        <img src="imagens/carrossel/imagem 3.jpg" alt="New york" style="width:100%;">
       </div>
     </div>
 
