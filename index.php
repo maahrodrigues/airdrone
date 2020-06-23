@@ -60,15 +60,15 @@
     <!-- IMAGENS DO CARROSSEL -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="imagens/imagem 1.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="imagens/teste 1.jpg" alt=" " style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="imagens/imagem 2.jpg" alt="Chicago" style="width:100%;">
+        <img src="imagens/teste 2.jpg" alt=" " style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="imagens/imagem 3.jpg" alt="New york" style="width:100%;">
+        <img src="imagens/teste 3.jpg" alt=" " style="width:100%;">
       </div>
     </div>
 
@@ -87,7 +87,9 @@
 </div>
 
 <div class="wrapper">
-    
+    <br>
+     <br>
+      <br>
     
     <!-- SLOGAN --> 
 <div class="intro">A Solução para todas as empresas, a qualquer hora e a qualquer momento. A experiência que inova e a excelência que lidera. </div>
@@ -108,7 +110,7 @@ ul class="social">
         <img src="imagens/logosite1.png" alt="Chicago" style="width:100%;">
       </div>    
 </div>
-
+<!--
 <center>
 <div>
 
@@ -117,7 +119,7 @@ ul class="social">
 </button>
 
 
-<!-- MODAL -->
+-----MODAL --
 <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
@@ -186,7 +188,7 @@ ul class="social">
         <!-- Button trigger modal -->
 
 
-<!-- Modal -->
+<!-- Modal------
 <div class="modal fade" id="salvar" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -215,7 +217,7 @@ ul class="social">
 <script type="text/javascript" src="style/js/scripts.js"></script>
     
     
-    <!--RODAPÉ
+    RODAPÉ
     
     <div class="site-generator-wrapper">
         <div class="site-generator"><a href="http://elemisfreebies.com"><strong>Endereço: </strong> Av. Paulista - São Paulo. || </a><strong>Telefone: </strong> (11)5555-0000 || <strong>Whatsapp: </strong> (11)98888-0000 </div>

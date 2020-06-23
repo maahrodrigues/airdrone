@@ -88,9 +88,9 @@ ul class="social">
 			<div class="outer none"><span class="inset"><img src="imagens/logo2.jpg" alt="About" title="About" />
 
 			</span></div>
-
+<!--
 				<a href="faleconosco.php"><center><button type="button" class="btn btn-secondary">FALE CONOSCO</button></center></a>
-				<br> 
+				<br> -->
 				<a href="equipe.php"><center><button type="button" class="btn btn-light">DEPARTAMENTOS/EQUIPE</button></center>
 				</div></a>
 
