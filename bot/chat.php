@@ -8,11 +8,19 @@ $questions = [
     "drone" => "O drone é uma das tecnologias que mais tem chamado a atenção nos últimos meses. Equipados para resistir a trabalhos pesados e ambientes hostis, esses equipamentos podem ter diversas utilidades.",
     "o que e drone?" => "O drone é uma das tecnologias que mais tem chamado a atenção nos últimos meses. Equipados para resistir a trabalhos pesados e ambientes hostis, esses equipamentos podem ter diversas utilidades.",
     "o que é drones?" => "O drone é uma das tecnologias que mais tem chamado a atenção nos últimos meses. Equipados para resistir a trabalhos pesados e ambientes hostis, esses equipamentos podem ter diversas utilidades.",
-        "serviços prestados" => "oferecemos prestação de serviços de venda e aluguel para diversos tipos utilidade de drones, para mais informações digite DUVIDAS",
+        "serviços" => " ACESSE A ABA SERVIÇOS NO NOSSO SITE",
+        "serviços prestados" => " ACESSE A ABA SERVIÇOS NO NOSSO SITE",
+        "SERVIÇOS PRESTADOS" => "ACESSE A ABA SERVIÇOS NO NOSSO SITE",
         "duvidas" => "para mais informações entre em contato no numero +55 (11) 4002-8922",
+        "DUVIDAS" => "para mais informações entre em contato no numero +55 (11) 4002-8922",
         "duvida" => "para mais informações entre em contato no numero +55 (11) 4002-8922",
+        "DUVIDA" => "para mais informações entre em contato no numero +55 (11) 4002-8922",
+        "CONSULTA" => " Por gentileza digite o codigo de postagem",
         "consulta" => " Por gentileza digite o codigo de postagem",
         "cgss1263" => "OBJETO POSTADO",
+        "0000" => "OBJETO POSTADO",
+        "1111" => "OBJETO ENTREGUE AO DESTINATÁRIO",
+        "2222" => "OBJETO AGUARDANDO POSTAGEM",
 
             
 
