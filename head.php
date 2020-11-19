@@ -17,7 +17,7 @@
 		  <a class="navbar-brand" href="index.php">Home</a>
 		  <a class="navbar-brand" href="page-with-sidebar.php">Preços</a>
 		  <a class="navbar-brand" href="post.php">Serviços</a>
-		  <a class="navbar-brand" href="typography.php">Entrega de Encomendas</a>
+		  <a class="navbar-brand" href="chatbot.php">Atendimento Online</a>
 		  <a class="navbar-brand" href="full-width.php">Nossa Empresa</a>
           
 		  </button>
