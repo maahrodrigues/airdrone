@@ -93,18 +93,6 @@
     
     <!-- SLOGAN --> 
 <div class="intro">A Solução para todas as empresas, a qualquer hora e a qualquer momento. A experiência que inova e a excelência que lidera. </div>
-
-    
-    
-    
-    <!-- LINK PARA ACESSO A MIDIAS SOCIAIS, CASO SEJA NECESSÁRIO USAR
-ul class="social">
-<li><a class="linkedin" href="https://www.linkedin.com/in/mayara-rodrigues-92701295/"></a></li></ul> --> 
-
-
-    
-    
-<!-- LOGO EMPRESA -->
     
 <div class="item">
         <img src="imagens/logosite1.png" alt="Chicago" style="width:100%;">
